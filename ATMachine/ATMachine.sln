@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMachine", "ATMachine\ATMachine.csproj", "{6FB20193-9F9D-495B-A2B3-35AF9F0D8AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB20193-9F9D-495B-A2B3-35AF9F0D8AB8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6FB20193-9F9D-495B-A2B3-35AF9F0D8AB8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6FB20193-9F9D-495B-A2B3-35AF9F0D8AB8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6FB20193-9F9D-495B-A2B3-35AF9F0D8AB8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0843A2D5-48BB-4AE9-B0FB-6FA25B842A8A}
+	EndGlobalSection
+EndGlobal

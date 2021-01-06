@@ -1,0 +1,6 @@
+/Users/rafael/Projects/ATMachine/ATMachine/bin/Debug/ATMachine.exe
+/Users/rafael/Projects/ATMachine/ATMachine/bin/Debug/ATMachine.pdb
+/Users/rafael/Projects/ATMachine/ATMachine/obj/Debug/ATMachine.csprojAssemblyReference.cache
+/Users/rafael/Projects/ATMachine/ATMachine/obj/Debug/ATMachine.csproj.CoreCompileInputs.cache
+/Users/rafael/Projects/ATMachine/ATMachine/obj/Debug/ATMachine.exe
+/Users/rafael/Projects/ATMachine/ATMachine/obj/Debug/ATMachine.pdb
